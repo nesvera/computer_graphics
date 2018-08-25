@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1530635625 source:d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\biela.cpp
+	"biela.h"
+	<gl/glut.h>
+	<gl/gl.h>
+
+1530588065 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\biela.h
+	"Vector3.h"
+	"Cubo.h"
+
+1530505642 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\vector3.h
+	<math.h>
+	<stdio.h>
+
+1530587946 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\cubo.h
+	"Vector3.h"
+	"Cilindro.h"
+
+1530593039 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\cilindro.h
+	"Vector3.h"
+
+1426358040 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\include\gl\glut.h
+	"freeglut_std.h"
+
+1437565542 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1530585454 source:d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\bloco.cpp
+	"bloco.h"
+	<gl/glut.h>
+	<gl/gl.h>
+
+1530586924 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\bloco.h
+	"Vector3.h"
+	"Cilindro.h"
+	"Cubo.h"
+
+1530595318 source:d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\camisa.cpp
+	"Camisa.h"
+	<gl/glut.h>
+	<gl/gl.h>
+
+1530563824 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\camisa.h
+	"Vector3.h"
+	"Cilindro.h"
+
+1530635790 source:d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\cilindro.cpp
+	"Cilindro.h"
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	"Vector3.h"
+	"Matrix3.h"
+
+1530504738 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\matrix3.h
+
+1530635791 source:d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\cubo.cpp
+	"Cubo.h"
+	<gl/glut.h>
+	<gl/gl.h>
+
+1530635790 source:d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\engrenagem.cpp
+	"Engrenagem.h"
+	"Cilindro.h"
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	"Vector3.h"
+	"Matrix3.h"
+
+1530593826 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\engrenagem.h
+	"Vector3.h"
+
+1530641242 source:d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\main.cpp
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+	"Matrix4.h"
+	"Vector3.h"
+	"Virabrequim.h"
+	"Camisa.h"
+	"Pistao.h"
+	"Bloco.h"
+	"Biela.h"
+
+1530504327 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\matrix4.h
+	"Vector3.h"
+	<math.h>
+	<stdio.h>
+
+1530593149 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\virabrequim.h
+	<list>
+	"matrix4.h"
+	"Vector3.h"
+	"Cilindro.h"
+	"Engrenagem.h"
+
+1530522188 d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\pistao.h
+	"Vector3.h"
+	"Matrix4.h"
+	"Cilindro.h"
+
+1530522530 source:d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\pistao.cpp
+	"Pistao.h"
+	<gl/glut.h>
+	<gl/gl.h>
+
+1530594942 source:d:\universidade\10º semestre\computacao grafica\trabalho_4\daniel_nesvera_201320267\src\virabrequim.cpp
+	"Virabrequim.h"
+	"Vector3.h"
+	"matrix4.h"
+	"Cilindro.h"
+	"Engrenagem.h"
+	<gl/glut.h>
+	<gl/gl.h>
+

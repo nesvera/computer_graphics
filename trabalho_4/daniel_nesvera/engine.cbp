@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="engine" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../__bin/Debug/transform" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../" />
+				<Option object_output="../__obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="../__bin/Release/transform" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../" />
+				<Option object_output="../__obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-O2 -Wall" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add library="../lib/freeglut.lib" />
+			<Add library="../lib/libglu32.a" />
+			<Add library="../lib/libopengl32.a" />
+		</Linker>
+		<Unit filename="include/GL/glut.h" />
+		<Unit filename="src/Biela.cpp" />
+		<Unit filename="src/Biela.h" />
+		<Unit filename="src/Bloco.cpp" />
+		<Unit filename="src/Bloco.h" />
+		<Unit filename="src/Camisa.cpp" />
+		<Unit filename="src/Camisa.h" />
+		<Unit filename="src/Cilindro.cpp" />
+		<Unit filename="src/Cilindro.h" />
+		<Unit filename="src/Cubo.cpp" />
+		<Unit filename="src/Cubo.h" />
+		<Unit filename="src/Engrenagem.cpp" />
+		<Unit filename="src/Engrenagem.h" />
+		<Unit filename="src/Matrix3.h" />
+		<Unit filename="src/Matrix4.h" />
+		<Unit filename="src/Pistao.cpp" />
+		<Unit filename="src/Pistao.h" />
+		<Unit filename="src/Vector3.h" />
+		<Unit filename="src/Virabrequim.cpp" />
+		<Unit filename="src/Virabrequim.h" />
+		<Unit filename="src/main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

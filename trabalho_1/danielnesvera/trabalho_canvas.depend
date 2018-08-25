@@ -1,0 +1,629 @@
+# depslib dependency file v1.0
+1523918851 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\arquivo.cpp
+	"Arquivo.h"
+
+1523826950 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\arquivo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<math.h>
+
+1285803594 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1285196298 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1523918964 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\button.cpp
+	"Button.h"
+
+1523545682 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\button.h
+	"UIComponent.h"
+	"Texto.h"
+
+1523894233 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\uicomponent.h
+	"gl_canvas2d.h"
+	<stdint.h>
+
+1523387163 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426358040 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\include\gl\glut.h
+	"freeglut_std.h"
+
+1437565542 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426358040 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1523561716 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\texto.h
+	"UIComponent.h"
+
+1523919004 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\checkbox.cpp
+	"Checkbox.h"
+
+1523892652 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\checkbox.h
+	"UIComponent.h"
+	"Texto.h"
+
+1523846861 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1523922106 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Button.h"
+	"Texto.h"
+	"Checkbox.h"
+	"PanelButton.h"
+	"PanelIntro.h"
+	"PanelGraph.h"
+	"PanelImage.h"
+	"PanelOrtogonal.h"
+	"Arquivo.h"
+	"PanelCarregar.h"
+
+1523823282 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\panelbutton.h
+	"UIComponent.h"
+	"Button.h"
+	"PanelIntro.h"
+	"PanelGraph.h"
+	"PanelImage.h"
+	"PanelOrtogonal.h"
+	"PanelCarregar.h"
+
+1523565289 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\panelintro.h
+	"UIComponent.h"
+	"Texto.h"
+
+1523904417 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\panelgraph.h
+	"UIComponent.h"
+	"Plot.h"
+	"Checkbox.h"
+	"Arquivo.h"
+
+1523908636 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\plot.h
+	"UIComponent.h"
+
+1523911716 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\panelimage.h
+	"UIComponent.h"
+	"bmp.h"
+	"gl_canvas2d.h"
+
+1523908676 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\panelortogonal.h
+	"UIComponent.h"
+	"Plot.h"
+
+1523903572 d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\panelcarregar.h
+	"UIComponent.h"
+	"Button.h"
+	"Plot.h"
+	"Checkbox.h"
+	"Arquivo.h"
+	<time.h>
+
+1523921636 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\panelbutton.cpp
+	"PanelButton.h"
+
+1523922665 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\panelcarregar.cpp
+	"PanelCarregar.h"
+
+1523922721 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\panelgraph.cpp
+	"PanelGraph.h"
+
+1523922673 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\panelimage.cpp
+	"PanelImage.h"
+
+1523919351 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\panelintro.cpp
+	"PanelIntro.h"
+
+1523921119 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\panelortogonal.cpp
+	"PanelOrtogonal.h"
+
+1523921562 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\plot.cpp
+	"Plot.h"
+
+1523919685 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\texto.cpp
+	"Texto.h"
+
+1523919546 source:d:\universidade\10º semestre\computacao grafica\new folder\danielnesvera\src\uicomponent.cpp
+	"UIComponent.h"
+
+1523918851 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\arquivo.cpp
+	"Arquivo.h"
+
+1523826950 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\arquivo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<math.h>
+
+1285803594 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1285196298 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1523918964 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\button.cpp
+	"Button.h"
+
+1523545682 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\button.h
+	"UIComponent.h"
+	"Texto.h"
+
+1523894233 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\uicomponent.h
+	"gl_canvas2d.h"
+	<stdint.h>
+
+1523387163 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426358040 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\include\gl\glut.h
+	"freeglut_std.h"
+
+1437565542 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426358040 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1523561716 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\texto.h
+	"UIComponent.h"
+
+1523919004 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\checkbox.cpp
+	"Checkbox.h"
+
+1523892652 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\checkbox.h
+	"UIComponent.h"
+	"Texto.h"
+
+1523846861 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1523922106 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Button.h"
+	"Texto.h"
+	"Checkbox.h"
+	"PanelButton.h"
+	"PanelIntro.h"
+	"PanelGraph.h"
+	"PanelImage.h"
+	"PanelOrtogonal.h"
+	"Arquivo.h"
+	"PanelCarregar.h"
+
+1523823282 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\panelbutton.h
+	"UIComponent.h"
+	"Button.h"
+	"PanelIntro.h"
+	"PanelGraph.h"
+	"PanelImage.h"
+	"PanelOrtogonal.h"
+	"PanelCarregar.h"
+
+1523565289 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\panelintro.h
+	"UIComponent.h"
+	"Texto.h"
+
+1523904417 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\panelgraph.h
+	"UIComponent.h"
+	"Plot.h"
+	"Checkbox.h"
+	"Arquivo.h"
+
+1523908636 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\plot.h
+	"UIComponent.h"
+
+1523911716 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\panelimage.h
+	"UIComponent.h"
+	"bmp.h"
+	"gl_canvas2d.h"
+
+1523908676 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\panelortogonal.h
+	"UIComponent.h"
+	"Plot.h"
+
+1523903572 d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\panelcarregar.h
+	"UIComponent.h"
+	"Button.h"
+	"Plot.h"
+	"Checkbox.h"
+	"Arquivo.h"
+	<time.h>
+
+1523921636 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\panelbutton.cpp
+	"PanelButton.h"
+
+1523919351 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\panelintro.cpp
+	"PanelIntro.h"
+
+1523921119 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\panelortogonal.cpp
+	"PanelOrtogonal.h"
+
+1523921562 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\plot.cpp
+	"Plot.h"
+
+1523919685 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\texto.cpp
+	"Texto.h"
+
+1523919546 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\uicomponent.cpp
+	"UIComponent.h"
+
+1523922665 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\panelcarregar.cpp
+	"PanelCarregar.h"
+
+1523922721 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\panelgraph.cpp
+	"PanelGraph.h"
+
+1523922673 source:d:\universidade\10º semestre\computacao grafica\trabalho_1\danielnesvera\src\panelimage.cpp
+	"PanelImage.h"
+
+1523918851 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\arquivo.cpp
+	"Arquivo.h"
+
+1523826950 d:\git\computer_graphics\trabalho_1\trabalho_1\src\arquivo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<math.h>
+
+1285803594 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1285196298 d:\git\computer_graphics\trabalho_1\trabalho_1\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1523918964 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\button.cpp
+	"Button.h"
+
+1523545682 d:\git\computer_graphics\trabalho_1\trabalho_1\src\button.h
+	"UIComponent.h"
+	"Texto.h"
+
+1523894233 d:\git\computer_graphics\trabalho_1\trabalho_1\src\uicomponent.h
+	"gl_canvas2d.h"
+	<stdint.h>
+
+1523387163 d:\git\computer_graphics\trabalho_1\trabalho_1\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426358040 d:\git\computer_graphics\trabalho_1\trabalho_1\include\gl\glut.h
+	"freeglut_std.h"
+
+1437565542 d:\git\computer_graphics\trabalho_1\trabalho_1\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426358040 d:\git\computer_graphics\trabalho_1\trabalho_1\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1523561716 d:\git\computer_graphics\trabalho_1\trabalho_1\src\texto.h
+	"UIComponent.h"
+
+1523919004 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\checkbox.cpp
+	"Checkbox.h"
+
+1523892652 d:\git\computer_graphics\trabalho_1\trabalho_1\src\checkbox.h
+	"UIComponent.h"
+	"Texto.h"
+
+1523846861 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1523922106 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Button.h"
+	"Texto.h"
+	"Checkbox.h"
+	"PanelButton.h"
+	"PanelIntro.h"
+	"PanelGraph.h"
+	"PanelImage.h"
+	"PanelOrtogonal.h"
+	"Arquivo.h"
+	"PanelCarregar.h"
+
+1523823282 d:\git\computer_graphics\trabalho_1\trabalho_1\src\panelbutton.h
+	"UIComponent.h"
+	"Button.h"
+	"PanelIntro.h"
+	"PanelGraph.h"
+	"PanelImage.h"
+	"PanelOrtogonal.h"
+	"PanelCarregar.h"
+
+1523565289 d:\git\computer_graphics\trabalho_1\trabalho_1\src\panelintro.h
+	"UIComponent.h"
+	"Texto.h"
+
+1523904417 d:\git\computer_graphics\trabalho_1\trabalho_1\src\panelgraph.h
+	"UIComponent.h"
+	"Plot.h"
+	"Checkbox.h"
+	"Arquivo.h"
+
+1523908636 d:\git\computer_graphics\trabalho_1\trabalho_1\src\plot.h
+	"UIComponent.h"
+
+1523911716 d:\git\computer_graphics\trabalho_1\trabalho_1\src\panelimage.h
+	"UIComponent.h"
+	"bmp.h"
+	"gl_canvas2d.h"
+
+1523908676 d:\git\computer_graphics\trabalho_1\trabalho_1\src\panelortogonal.h
+	"UIComponent.h"
+	"Plot.h"
+
+1523903572 d:\git\computer_graphics\trabalho_1\trabalho_1\src\panelcarregar.h
+	"UIComponent.h"
+	"Button.h"
+	"Plot.h"
+	"Checkbox.h"
+	"Arquivo.h"
+	<time.h>
+
+1523921636 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\panelbutton.cpp
+	"PanelButton.h"
+
+1523922665 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\panelcarregar.cpp
+	"PanelCarregar.h"
+
+1523922721 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\panelgraph.cpp
+	"PanelGraph.h"
+
+1523922673 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\panelimage.cpp
+	"PanelImage.h"
+
+1523919351 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\panelintro.cpp
+	"PanelIntro.h"
+
+1523921119 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\panelortogonal.cpp
+	"PanelOrtogonal.h"
+
+1523921562 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\plot.cpp
+	"Plot.h"
+
+1523919685 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\texto.cpp
+	"Texto.h"
+
+1523919546 source:d:\git\computer_graphics\trabalho_1\trabalho_1\src\uicomponent.cpp
+	"UIComponent.h"
+
+1523918851 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\arquivo.cpp
+	"Arquivo.h"
+
+1523826950 d:\git\computer_graphics\trabalho_1\danielnesvera\src\arquivo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<math.h>
+
+1285803594 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1285196298 d:\git\computer_graphics\trabalho_1\danielnesvera\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1523918964 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\button.cpp
+	"Button.h"
+
+1523545682 d:\git\computer_graphics\trabalho_1\danielnesvera\src\button.h
+	"UIComponent.h"
+	"Texto.h"
+
+1523894233 d:\git\computer_graphics\trabalho_1\danielnesvera\src\uicomponent.h
+	"gl_canvas2d.h"
+	<stdint.h>
+
+1523387163 d:\git\computer_graphics\trabalho_1\danielnesvera\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426358040 d:\git\computer_graphics\trabalho_1\danielnesvera\include\gl\glut.h
+	"freeglut_std.h"
+
+1437565542 d:\git\computer_graphics\trabalho_1\danielnesvera\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426358040 d:\git\computer_graphics\trabalho_1\danielnesvera\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1523561716 d:\git\computer_graphics\trabalho_1\danielnesvera\src\texto.h
+	"UIComponent.h"
+
+1523919004 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\checkbox.cpp
+	"Checkbox.h"
+
+1523892652 d:\git\computer_graphics\trabalho_1\danielnesvera\src\checkbox.h
+	"UIComponent.h"
+	"Texto.h"
+
+1523846861 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1523922106 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Button.h"
+	"Texto.h"
+	"Checkbox.h"
+	"PanelButton.h"
+	"PanelIntro.h"
+	"PanelGraph.h"
+	"PanelImage.h"
+	"PanelOrtogonal.h"
+	"Arquivo.h"
+	"PanelCarregar.h"
+
+1523823282 d:\git\computer_graphics\trabalho_1\danielnesvera\src\panelbutton.h
+	"UIComponent.h"
+	"Button.h"
+	"PanelIntro.h"
+	"PanelGraph.h"
+	"PanelImage.h"
+	"PanelOrtogonal.h"
+	"PanelCarregar.h"
+
+1523565289 d:\git\computer_graphics\trabalho_1\danielnesvera\src\panelintro.h
+	"UIComponent.h"
+	"Texto.h"
+
+1523904417 d:\git\computer_graphics\trabalho_1\danielnesvera\src\panelgraph.h
+	"UIComponent.h"
+	"Plot.h"
+	"Checkbox.h"
+	"Arquivo.h"
+
+1523908636 d:\git\computer_graphics\trabalho_1\danielnesvera\src\plot.h
+	"UIComponent.h"
+
+1523911716 d:\git\computer_graphics\trabalho_1\danielnesvera\src\panelimage.h
+	"UIComponent.h"
+	"bmp.h"
+	"gl_canvas2d.h"
+
+1523908676 d:\git\computer_graphics\trabalho_1\danielnesvera\src\panelortogonal.h
+	"UIComponent.h"
+	"Plot.h"
+
+1523903572 d:\git\computer_graphics\trabalho_1\danielnesvera\src\panelcarregar.h
+	"UIComponent.h"
+	"Button.h"
+	"Plot.h"
+	"Checkbox.h"
+	"Arquivo.h"
+	<time.h>
+
+1523921636 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\panelbutton.cpp
+	"PanelButton.h"
+
+1523922665 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\panelcarregar.cpp
+	"PanelCarregar.h"
+
+1523922721 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\panelgraph.cpp
+	"PanelGraph.h"
+
+1523922673 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\panelimage.cpp
+	"PanelImage.h"
+
+1523919351 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\panelintro.cpp
+	"PanelIntro.h"
+
+1523921119 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\panelortogonal.cpp
+	"PanelOrtogonal.h"
+
+1523921562 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\plot.cpp
+	"Plot.h"
+
+1523919685 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\texto.cpp
+	"Texto.h"
+
+1523919546 source:d:\git\computer_graphics\trabalho_1\danielnesvera\src\uicomponent.cpp
+	"UIComponent.h"
+

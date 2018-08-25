@@ -1,7 +1,5 @@
 Instruções:
 
-- Trabalho desenvolvido no software QT
-
 1 - Foi feita a modelagem dos seguintes componentes, sendo possivel habilitar/desabilitar a visualição dos componentes
 	- Virabrequim
 	- bloco

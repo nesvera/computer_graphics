@@ -1,6 +1,3 @@
-Instruções:
- A interface do trabalho é intuitiva
-
 No panel do lado esquerdo da janela é possível fazer as seguintes tarefas
       - Botão Carregar:
       - Le o arquivo "samples.dct" e plota o gráfico

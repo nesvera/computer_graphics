@@ -1,7 +1,5 @@
 Instruções:
 
-- Trabalho desenvolvido no software QT
-
 1.1.1 Linha 		(implementado)
 1.1.2 Quadrado		(implementado)
 1.2 Mao livre		(nao implementado)
